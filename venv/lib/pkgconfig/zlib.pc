@@ -1,0 +1,13 @@
+prefix=/Users/bhargavaa/Documents/Internship/Walmart prediction/venv
+exec_prefix=/Users/bhargavaa/Documents/Internship/Walmart prediction/venv
+libdir=/Users/bhargavaa/Documents/Internship/Walmart prediction/venv/lib
+sharedlibdir=/Users/bhargavaa/Documents/Internship/Walmart prediction/venv/lib
+includedir=/Users/bhargavaa/Documents/Internship/Walmart prediction/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
