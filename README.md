@@ -2,7 +2,7 @@ Walmart sales prediction
 Predicts the future sales of Walmart 
 
 
-The dataset was taken from kaggle 
+The dataset was taken from kaggle https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
 
 
